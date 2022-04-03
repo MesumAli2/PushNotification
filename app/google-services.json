@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040694773785",
+    "project_id": "push-notification-126d3",
+    "storage_bucket": "push-notification-126d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040694773785:android:4839415e5baf2ec6728288",
+        "android_client_info": {
+          "package_name": "com.mesum.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040694773785-7i70nudm6q749rl65t7ush3pjgf8084o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6r_uGWXsjAzGMRmo2HZmg2MK6sdfM6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040694773785-7i70nudm6q749rl65t7ush3pjgf8084o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
